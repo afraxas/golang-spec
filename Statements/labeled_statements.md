@@ -1,5 +1,9 @@
 # Labeled statements
 
+* Go 버전: 1.9
+* 원문: [Labeled statements](https://golang.org/ref/spec#Labeled_statements)
+* 번역자: Myoungho Choi (@afraxas)
+
 A labeled statement may be the target of a goto, break or continue statement.
 
 <pre>
